@@ -35,7 +35,7 @@ def initial_round
   total
 end
 
-def hit?
+def hit?()
   # code hit? here
 end
 
